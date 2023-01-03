@@ -1,0 +1,25 @@
+.crib {
+    position: absolute;
+    left: -11px;
+    bottom: 6px;
+    transition: 0.4s;
+    2-index: 100;
+    overflow: hidden;
+
+    SVE {
+        height: 180px;
+        width: 210px;
+#Crib {
+            transform-origin: center;
+            #Left,
+            #Right (transform-origin: center;
+                transition: 0.5s ease-in-out;}
+
+                input:checked + .slider .crib {
+                    transform: translate(410px);
+
+                    input:checked + .slider .crib .right {
+                        transform: rotate(90deg) translate(60px);
+
+                        input:checked + .slider .crib #Left {
+                            transform: rotate(-90deg) translate(-70px) scale(0.8);
