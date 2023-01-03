@@ -18,3 +18,10 @@ function increment(){
 }
 
 
+function save(){
+    alert(count)
+}
+
+save()
+
+
